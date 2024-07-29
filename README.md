@@ -7,4 +7,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at CQUPT.
 - 📚 I’m currently learning  backend web development using Java.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me:[e-mail](mailto:syuanerya@163.com)
+- 📫 How to reach me:[ e-mail](mailto:syuanerya@163.com)
