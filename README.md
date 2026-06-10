@@ -2,9 +2,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+  Hi there 👋 I'm a backend developer working in Shenzhen, passionate about building efficient and reliable systems.
 
-- 🔭 I’m currently a CS student at CQUPT.
-- 📚 I’m currently learning  backend web development using Java.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me:[ e-mail](mailto:syuanerya@163.com)
+  - 🔭 I'm currently working as a backend developer in Shenzhen.
+  - 🌱 I'm diving deeper into distributed systems, middleware design, and high-performance architectures.
+  - 💬 Ask me about Go, Java, and backend development.
+  - ⚡ I enjoy solving complex problems and automating things.
+  - 📫 How to reach me:[ e-mail](mailto:syuanerya@163.com)
